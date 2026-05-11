@@ -96,6 +96,7 @@ Create account details, transactions, and crypto addresses.
 - [Faker::Blockchain::Aeternity](doc/blockchain/aeternity.md)
 - [Faker::Blockchain::Bitcoin](doc/blockchain/bitcoin.md)
 - [Faker::Blockchain::Ethereum](doc/blockchain/ethereum.md)
+- [Faker::Blockchain::Solana](doc/blockchain/solana.md)
 - [Faker::Blockchain::Tezos](doc/blockchain/tezos.md)
 - [Faker::Business](doc/default/business.md)
 - [Faker::Coin](doc/default/coin.md)
@@ -350,6 +351,7 @@ Want to see a comprehensive list of all generators? Expand the sections below to
   - [Faker::Blockchain::Aeternity](doc/blockchain/aeternity.md)
   - [Faker::Blockchain::Bitcoin](doc/blockchain/bitcoin.md)
   - [Faker::Blockchain::Ethereum](doc/blockchain/ethereum.md)
+  - [Faker::Blockchain::Solana](doc/blockchain/solana.md)
   - [Faker::Blockchain::Tezos](doc/blockchain/tezos.md)
 </details>
 
